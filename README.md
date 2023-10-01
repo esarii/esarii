@@ -1,8 +1,9 @@
 
 ### <div align="center">Hi there! 🚀 I’m Ezgi 👨‍💻 </div> 
+<div align="center">
 - 🌱 I’m working with Angular, TypeScript and JavaScript.
 - 📫 How to reach me <a href="mailto:ezgi.saari@gmail.com">ezgi.saari@gmail.com</a>
-
+</div> 
 <!---
 esarii/esarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <table><tr><td valign="top" width="50%">
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarii&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarii&hide_border=true&layout=compact" align="left" />
 </div>
 </td><td valign="top" width="50%">
 
