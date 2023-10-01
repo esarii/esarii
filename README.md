@@ -1,7 +1,8 @@
 
+
 ### <div align="center">Hi there! 🚀 I’m Ezgi 👨‍💻 </div> 
 <div align="center">
-- 🌱 I’m working with Angular, TypeScript and JavaScript.
+- 🌱 I’m working with Angular, TypeScript and JavaScript. <br/>
 - 📫 How to reach me <a href="mailto:ezgi.saari@gmail.com">ezgi.saari@gmail.com</a>
 </div> 
 <!---
@@ -10,13 +11,15 @@ You can click the Preview link to take a look at your changes.
 --->
 <br/>
 
-<table><tr><td valign="top" width="50%">
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarii&hide_border=true&layout=compact" align="left" />
-</div>
-</td><td valign="top" width="50%">
+<br/>
 
-<div align="center">  
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarii&hide_border=true&layout=compact"/>
+</div>
+<br/>
+  
+### <div align="center">Languages and Tools</div> 
+<div align="center"> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -30,4 +33,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div> 
 
-</td></tr></table>  
