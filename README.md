@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hi there! 🚀 I’m Ezgi 👨‍💻 </div> 
+### <div align="center">Hi there! 🚀 I’m Ezgi 👩‍💻 </div> 
 <div align="center">
 - 🌱 I’m working with Angular, TypeScript and JavaScript. <br/>
 - 📫 How to reach me <a href="mailto:ezgi.saari@gmail.com">ezgi.saari@gmail.com</a>
